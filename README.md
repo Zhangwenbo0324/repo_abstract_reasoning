@@ -1,6 +1,6 @@
-# A simple repo for training vision reasoning tasks
+# Code for SIMAR
 
-This repo contains code for training some vision reasoning tasks.
+This repository contains code for SIMAR.
 
 # Dataset
 I-RAVEN: https://github.com/husheng12345/SRAN
